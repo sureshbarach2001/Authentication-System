@@ -120,7 +120,7 @@ Response:
 
 ## 🎥 Demo Video
 Check out AuthVerse in action!  
-![AuthVerse Demo](https://github.com/sureshbarach2001/Authentication-System/blob/28a32033cf3b460a344761a4a815a4b33758011b/assests/Auth-Demo.webm)
+[AuthVerse Demo](https://github.com/sureshbarach2001/Authentication-System/blob/28a32033cf3b460a344761a4a815a4b33758011b/assests/Auth-Demo.webm)
 
 ---
 
